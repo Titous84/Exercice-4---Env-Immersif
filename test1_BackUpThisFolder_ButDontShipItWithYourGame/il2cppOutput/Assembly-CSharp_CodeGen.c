@@ -1,0 +1,81 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void PeintureVR_OnEnable_m9740BDACEAA68B6F021DF29CC9AED9FC495BCEF1 (void);
+extern void PeintureVR_OnDisable_m07764CD6D1D42EB4D5E22FCF33B454D6FF75FDE0 (void);
+extern void PeintureVR_OnGachetteDroite_m8F64C6A338CA3FFA1AC1CC1160E662C07AB9C6C0 (void);
+extern void PeintureVR_OnGachetteGauche_m60599BD78AD46876F68A08A92D8C2E395830FE97 (void);
+extern void PeintureVR_PlacerCube_mA978ECA2AABDDF6A644448F4D15CF1A0A42C5D9F (void);
+extern void PeintureVR_ChangerCouleur_m909C3FB5F44F2A5C0E7944A1126906CBAB3D23AB (void);
+extern void PeintureVR_Update_m408D0BC2EC7321E0E29E5FCC7528ABFC255460D3 (void);
+extern void PeintureVR__ctor_m79D89ACAE82A19A561BF70432FBCF9E0BF7BDE23 (void);
+extern void SelecteurCouleur_Awake_mDBF8711AAA09E95C465F4AFF35372E9307D81B03 (void);
+extern void SelecteurCouleur_OnEnable_m677164ADBFEDC534C97617AAFC1FEE35EFF14F8C (void);
+extern void SelecteurCouleur_OnDisable_m863BADA882163976CCB6FF50AC50B16EA320F681 (void);
+extern void SelecteurCouleur_OnBoutonA_mA6B20D5F46073652A3E3FAABC12AC6B413DA1095 (void);
+extern void SelecteurCouleur__ctor_m7E07FEE20960E5F09D46757E24A66B46B582231A (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[15] = 
+{
+	PeintureVR_OnEnable_m9740BDACEAA68B6F021DF29CC9AED9FC495BCEF1,
+	PeintureVR_OnDisable_m07764CD6D1D42EB4D5E22FCF33B454D6FF75FDE0,
+	PeintureVR_OnGachetteDroite_m8F64C6A338CA3FFA1AC1CC1160E662C07AB9C6C0,
+	PeintureVR_OnGachetteGauche_m60599BD78AD46876F68A08A92D8C2E395830FE97,
+	PeintureVR_PlacerCube_mA978ECA2AABDDF6A644448F4D15CF1A0A42C5D9F,
+	PeintureVR_ChangerCouleur_m909C3FB5F44F2A5C0E7944A1126906CBAB3D23AB,
+	PeintureVR_Update_m408D0BC2EC7321E0E29E5FCC7528ABFC255460D3,
+	PeintureVR__ctor_m79D89ACAE82A19A561BF70432FBCF9E0BF7BDE23,
+	SelecteurCouleur_Awake_mDBF8711AAA09E95C465F4AFF35372E9307D81B03,
+	SelecteurCouleur_OnEnable_m677164ADBFEDC534C97617AAFC1FEE35EFF14F8C,
+	SelecteurCouleur_OnDisable_m863BADA882163976CCB6FF50AC50B16EA320F681,
+	SelecteurCouleur_OnBoutonA_mA6B20D5F46073652A3E3FAABC12AC6B413DA1095,
+	SelecteurCouleur__ctor_m7E07FEE20960E5F09D46757E24A66B46B582231A,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[15] = 
+{
+	13315,
+	13315,
+	10452,
+	10452,
+	5281,
+	9979,
+	13315,
+	13315,
+	13315,
+	13315,
+	13315,
+	10452,
+	13315,
+	22831,
+	13315,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	15,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
